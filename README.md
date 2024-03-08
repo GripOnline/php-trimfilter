@@ -1,6 +1,6 @@
 # HTML whitespace filter for PHP
 
-This library provides an HTML whitespace filter that you can use to filter out unneeded whitespace from generated HTML. It does not buffer the whole page so it will not hurt your time-to-first-byte (TTFB). Some buffering is required, but you can set the buffer size yourself. A buffer of around 500 bytes is recommended. Contents of `<script>` / `<style>` / `<textarea>` / `<pre>` and comment tags is never trimmed.
+This library provides an HTML whitespace filter that you can use to filter out unneeded whitespace from generated HTML. It does not buffer the whole page so it will not hurt your time-to-first-byte (TTFB). Some buffering is required, but you can set the buffer size yourself. A buffer of around 500 bytes is recommended. Contents of `<script>` / `<style>` / `<textarea>` / `<pre>` and comment tags are never trimmed.
 
 # Example
 
