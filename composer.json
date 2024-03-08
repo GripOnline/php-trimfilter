@@ -2,7 +2,6 @@
     "name": "grip/trimfilter",
     "description": "HTML whitespace filter for PHP",
     "type": "library",
-    "version": "1.0.0-RC1",
     "license": "Apache-2.0",
     "authors": [
         {
