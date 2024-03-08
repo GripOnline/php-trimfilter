@@ -1,0 +1,22 @@
+{
+    "name": "grip/trimfilter",
+    "description": "HTML whitespace filter for PHP",
+    "type": "library",
+    "version": "1.0-RC1",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Erik Hoogeboom",
+            "email": "software@grip.nl",
+            "role": "Developer"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Grip\\": "src/"
+        }
+    }
+}
