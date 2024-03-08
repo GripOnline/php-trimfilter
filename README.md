@@ -6,7 +6,7 @@ This library provides an HTML whitespace filter that you can use to filter out u
 
 This filter turns this
 
-```
+```html
 
 
 <!DOCTYPE html>
@@ -43,7 +43,7 @@ This filter turns this
 
 into this:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="nl">
 <head>
